@@ -1,5 +1,5 @@
 # Association between service graph templates and contracts
-An ansible module that provides the possibility to associate service graph templates with contracts in ACI (Cisco)
+Ansible module that provides the possibility to associate service graph templates with contracts in ACI (Cisco)
 
 # Installation
 
